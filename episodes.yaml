@@ -1,0 +1,11 @@
+episodi:
+- guid: rag-fondamenti-ep01
+  titolo: Perché esiste il RAG e come funziona a grandi linee
+  descrizione: Cosa succede quando un modello linguistico non sa la risposta, e come
+    il RAG risolve il problema recuperando il contesto giusto prima di generare.
+  data: '2026-07-07'
+  durata: 1002.067
+  dimensione: 14045281
+  file: rag-fondamenti-ep01.mp3
+  slug: rag-fondamenti
+  n: 1

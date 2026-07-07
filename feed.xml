@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Note di AI generativa</title>
+    <description>Approfondimenti su informatica, LLM e AI generativa.</description>
+    <link>https://raffaele240695.github.io/podcast-feed</link>
+    <language>it</language>
+    <itunes:author>Note di AI</itunes:author>
+    <itunes:summary>Approfondimenti su informatica, LLM e AI generativa.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Note di AI</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://raffaele240695.github.io/podcast-feed/cover.jpg"/>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Perché esiste il RAG e come funziona a grandi linee</title>
+      <description>Cosa succede quando un modello linguistico non sa la risposta, e come il RAG risolve il problema recuperando il contesto giusto prima di generare.</description>
+      <itunes:summary>Cosa succede quando un modello linguistico non sa la risposta, e come il RAG risolve il problema recuperando il contesto giusto prima di generare.</itunes:summary>
+      <enclosure url="https://raffaele240695.github.io/podcast-feed/episodes/rag-fondamenti-ep01.mp3" length="14045281" type="audio/mpeg"/>
+      <guid isPermaLink="false">rag-fondamenti-ep01</guid>
+      <pubDate>Tue, 07 Jul 2026 09:01:00 +0000</pubDate>
+      <itunes:duration>00:16:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
