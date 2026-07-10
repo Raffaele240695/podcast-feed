@@ -9,3 +9,44 @@ episodi:
   file: rag-fondamenti-ep01.mp3
   slug: rag-fondamenti
   n: 1
+- guid: rag-fondamenti-ep02
+  titolo: 'Embedding: trasformare il significato in numeri'
+  descrizione: Come un testo diventa una sequenza di numeri confrontabile, e perché
+    questo permette di cercare per significato invece che per parola esatta.
+  data: '2026-07-07'
+  durata: 828.444
+  dimensione: 11611939
+  file: rag-fondamenti-ep02.mp3
+  slug: rag-fondamenti
+  n: 2
+- guid: rag-fondamenti-ep03
+  titolo: 'Preparare i documenti: chunking, metadati e indicizzazione'
+  descrizione: Come si spezzano i documenti in pezzi gestibili, quali informazioni
+    portarsi dietro, e dove finiscono per essere cercati velocemente.
+  data: '2026-07-07'
+  durata: 918.443
+  dimensione: 12873453
+  file: rag-fondamenti-ep03.mp3
+  slug: rag-fondamenti
+  n: 3
+- guid: rag-fondamenti-ep04
+  titolo: 'Il recupero: ricerca vettoriale, ibrida e reranking'
+  descrizione: Perché la sola ricerca semantica non basta su larga scala, e come ricerca
+    ibrida e reranking risolvono il vero collo di bottiglia del RAG.
+  data: '2026-07-07'
+  durata: 876.968
+  dimensione: 12292116
+  file: rag-fondamenti-ep04.mp3
+  slug: rag-fondamenti
+  n: 4
+- guid: rag-fondamenti-ep05
+  titolo: 'Generare bene: grounding, citazioni, valutazione e allucinazioni'
+  descrizione: 'Cosa succede quando il modello ha finalmente il contesto giusto in
+    mano: come restare fedeli ai fatti, come misurare se un RAG funziona davvero,
+    e come prevenire le allucinazioni.'
+  data: '2026-07-07'
+  durata: 858.918
+  dimensione: 12039208
+  file: rag-fondamenti-ep05.mp3
+  slug: rag-fondamenti
+  n: 5

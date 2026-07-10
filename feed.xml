@@ -20,8 +20,48 @@
       <itunes:summary>Cosa succede quando un modello linguistico non sa la risposta, e come il RAG risolve il problema recuperando il contesto giusto prima di generare.</itunes:summary>
       <enclosure url="https://raffaele240695.github.io/podcast-feed/episodes/rag-fondamenti-ep01.mp3" length="14045281" type="audio/mpeg"/>
       <guid isPermaLink="false">rag-fondamenti-ep01</guid>
-      <pubDate>Tue, 07 Jul 2026 09:01:00 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 09:05:00 +0000</pubDate>
       <itunes:duration>00:16:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Embedding: trasformare il significato in numeri</title>
+      <description>Come un testo diventa una sequenza di numeri confrontabile, e perché questo permette di cercare per significato invece che per parola esatta.</description>
+      <itunes:summary>Come un testo diventa una sequenza di numeri confrontabile, e perché questo permette di cercare per significato invece che per parola esatta.</itunes:summary>
+      <enclosure url="https://raffaele240695.github.io/podcast-feed/episodes/rag-fondamenti-ep02.mp3" length="11611939" type="audio/mpeg"/>
+      <guid isPermaLink="false">rag-fondamenti-ep02</guid>
+      <pubDate>Tue, 07 Jul 2026 09:04:00 +0000</pubDate>
+      <itunes:duration>00:13:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Preparare i documenti: chunking, metadati e indicizzazione</title>
+      <description>Come si spezzano i documenti in pezzi gestibili, quali informazioni portarsi dietro, e dove finiscono per essere cercati velocemente.</description>
+      <itunes:summary>Come si spezzano i documenti in pezzi gestibili, quali informazioni portarsi dietro, e dove finiscono per essere cercati velocemente.</itunes:summary>
+      <enclosure url="https://raffaele240695.github.io/podcast-feed/episodes/rag-fondamenti-ep03.mp3" length="12873453" type="audio/mpeg"/>
+      <guid isPermaLink="false">rag-fondamenti-ep03</guid>
+      <pubDate>Tue, 07 Jul 2026 09:03:00 +0000</pubDate>
+      <itunes:duration>00:15:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Il recupero: ricerca vettoriale, ibrida e reranking</title>
+      <description>Perché la sola ricerca semantica non basta su larga scala, e come ricerca ibrida e reranking risolvono il vero collo di bottiglia del RAG.</description>
+      <itunes:summary>Perché la sola ricerca semantica non basta su larga scala, e come ricerca ibrida e reranking risolvono il vero collo di bottiglia del RAG.</itunes:summary>
+      <enclosure url="https://raffaele240695.github.io/podcast-feed/episodes/rag-fondamenti-ep04.mp3" length="12292116" type="audio/mpeg"/>
+      <guid isPermaLink="false">rag-fondamenti-ep04</guid>
+      <pubDate>Tue, 07 Jul 2026 09:02:00 +0000</pubDate>
+      <itunes:duration>00:14:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Generare bene: grounding, citazioni, valutazione e allucinazioni</title>
+      <description>Cosa succede quando il modello ha finalmente il contesto giusto in mano: come restare fedeli ai fatti, come misurare se un RAG funziona davvero, e come prevenire le allucinazioni.</description>
+      <itunes:summary>Cosa succede quando il modello ha finalmente il contesto giusto in mano: come restare fedeli ai fatti, come misurare se un RAG funziona davvero, e come prevenire le allucinazioni.</itunes:summary>
+      <enclosure url="https://raffaele240695.github.io/podcast-feed/episodes/rag-fondamenti-ep05.mp3" length="12039208" type="audio/mpeg"/>
+      <guid isPermaLink="false">rag-fondamenti-ep05</guid>
+      <pubDate>Tue, 07 Jul 2026 09:01:00 +0000</pubDate>
+      <itunes:duration>00:14:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
