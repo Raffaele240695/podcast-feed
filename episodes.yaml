@@ -50,3 +50,66 @@ episodi:
   file: rag-fondamenti-ep05.mp3
   slug: rag-fondamenti
   n: 5
+- guid: genai-business-skills-ep01
+  titolo: Come funziona davvero un modello di AI generativa
+  descrizione: Cos'è un token, come un modello genera una risposta, perché a volte
+    sbaglia, e dove sta il vantaggio reale nonostante gli errori.
+  data: '2026-07-10'
+  durata: 743.619
+  dimensione: 10423268
+  file: genai-business-skills-ep01.mp3
+  slug: genai-business-skills
+  n: 1
+- guid: genai-business-skills-ep02
+  titolo: Spiegare l'intelligenza artificiale generativa a chi non è tecnico
+  descrizione: Come tradurre i concetti tecnici della GenAI in un linguaggio che un
+    interlocutore di business capisca e trovi rilevante, senza perdere precisione.
+  data: '2026-07-10'
+  durata: 733.094
+  dimensione: 10275772
+  file: genai-business-skills-ep02.mp3
+  slug: genai-business-skills
+  n: 2
+- guid: genai-business-skills-ep03
+  titolo: Il prompting come competenza professionale, e i suoi framework
+  descrizione: Perché dare buone istruzioni a uno strumento di AI generativa è una
+    competenza vera, e come scegliere tra i framework RTF, RACE e CO-STAR.
+  data: '2026-07-10'
+  durata: 676.995
+  dimensione: 9489786
+  file: genai-business-skills-ep03.mp3
+  slug: genai-business-skills
+  n: 3
+- guid: genai-business-skills-ep04
+  titolo: 'Dai requisiti alla fattibilità: cosa chiedere per capire cosa serve e cosa
+    costa'
+  descrizione: Come raccogliere davvero i requisiti di un progetto, e quali domande
+    fanno emergere fattibilità e stima, sia per un progetto IT tradizionale sia per
+    un progetto GenAI.
+  data: '2026-07-10'
+  durata: 855.318
+  dimensione: 11988695
+  file: genai-business-skills-ep04.mp3
+  slug: genai-business-skills
+  n: 4
+- guid: genai-business-skills-ep05
+  titolo: 'Comunicare con chiarezza: struttura e il framework STAR'
+  descrizione: Come adattare linguaggio e dettaglio a chi hai davanti, e come usare
+    il framework STAR per raccontare un progetto o rispondere con sicurezza a una
+    domanda impegnativa.
+  data: '2026-07-10'
+  durata: 643.57
+  dimensione: 9021223
+  file: genai-business-skills-ep05.mp3
+  slug: genai-business-skills
+  n: 5
+- guid: genai-business-skills-ep06
+  titolo: Gestire un progetto GenAI insieme al business
+  descrizione: Come si gestisce davvero un progetto di AI generativa insieme agli
+    stakeholder di business, dal ciclo di vita alla misurazione del successo.
+  data: '2026-07-10'
+  durata: 695.544
+  dimensione: 9749686
+  file: genai-business-skills-ep06.mp3
+  slug: genai-business-skills
+  n: 6

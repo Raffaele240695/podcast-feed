@@ -15,6 +15,66 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Come funziona davvero un modello di AI generativa</title>
+      <description>Cos'è un token, come un modello genera una risposta, perché a volte sbaglia, e dove sta il vantaggio reale nonostante gli errori.</description>
+      <itunes:summary>Cos'è un token, come un modello genera una risposta, perché a volte sbaglia, e dove sta il vantaggio reale nonostante gli errori.</itunes:summary>
+      <enclosure url="https://raffaele240695.github.io/podcast-feed/episodes/genai-business-skills-ep01.mp3" length="10423268" type="audio/mpeg"/>
+      <guid isPermaLink="false">genai-business-skills-ep01</guid>
+      <pubDate>Fri, 10 Jul 2026 09:11:00 +0000</pubDate>
+      <itunes:duration>00:12:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Spiegare l'intelligenza artificiale generativa a chi non è tecnico</title>
+      <description>Come tradurre i concetti tecnici della GenAI in un linguaggio che un interlocutore di business capisca e trovi rilevante, senza perdere precisione.</description>
+      <itunes:summary>Come tradurre i concetti tecnici della GenAI in un linguaggio che un interlocutore di business capisca e trovi rilevante, senza perdere precisione.</itunes:summary>
+      <enclosure url="https://raffaele240695.github.io/podcast-feed/episodes/genai-business-skills-ep02.mp3" length="10275772" type="audio/mpeg"/>
+      <guid isPermaLink="false">genai-business-skills-ep02</guid>
+      <pubDate>Fri, 10 Jul 2026 09:10:00 +0000</pubDate>
+      <itunes:duration>00:12:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Il prompting come competenza professionale, e i suoi framework</title>
+      <description>Perché dare buone istruzioni a uno strumento di AI generativa è una competenza vera, e come scegliere tra i framework RTF, RACE e CO-STAR.</description>
+      <itunes:summary>Perché dare buone istruzioni a uno strumento di AI generativa è una competenza vera, e come scegliere tra i framework RTF, RACE e CO-STAR.</itunes:summary>
+      <enclosure url="https://raffaele240695.github.io/podcast-feed/episodes/genai-business-skills-ep03.mp3" length="9489786" type="audio/mpeg"/>
+      <guid isPermaLink="false">genai-business-skills-ep03</guid>
+      <pubDate>Fri, 10 Jul 2026 09:09:00 +0000</pubDate>
+      <itunes:duration>00:11:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Dai requisiti alla fattibilità: cosa chiedere per capire cosa serve e cosa costa</title>
+      <description>Come raccogliere davvero i requisiti di un progetto, e quali domande fanno emergere fattibilità e stima, sia per un progetto IT tradizionale sia per un progetto GenAI.</description>
+      <itunes:summary>Come raccogliere davvero i requisiti di un progetto, e quali domande fanno emergere fattibilità e stima, sia per un progetto IT tradizionale sia per un progetto GenAI.</itunes:summary>
+      <enclosure url="https://raffaele240695.github.io/podcast-feed/episodes/genai-business-skills-ep04.mp3" length="11988695" type="audio/mpeg"/>
+      <guid isPermaLink="false">genai-business-skills-ep04</guid>
+      <pubDate>Fri, 10 Jul 2026 09:08:00 +0000</pubDate>
+      <itunes:duration>00:14:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Comunicare con chiarezza: struttura e il framework STAR</title>
+      <description>Come adattare linguaggio e dettaglio a chi hai davanti, e come usare il framework STAR per raccontare un progetto o rispondere con sicurezza a una domanda impegnativa.</description>
+      <itunes:summary>Come adattare linguaggio e dettaglio a chi hai davanti, e come usare il framework STAR per raccontare un progetto o rispondere con sicurezza a una domanda impegnativa.</itunes:summary>
+      <enclosure url="https://raffaele240695.github.io/podcast-feed/episodes/genai-business-skills-ep05.mp3" length="9021223" type="audio/mpeg"/>
+      <guid isPermaLink="false">genai-business-skills-ep05</guid>
+      <pubDate>Fri, 10 Jul 2026 09:07:00 +0000</pubDate>
+      <itunes:duration>00:10:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Gestire un progetto GenAI insieme al business</title>
+      <description>Come si gestisce davvero un progetto di AI generativa insieme agli stakeholder di business, dal ciclo di vita alla misurazione del successo.</description>
+      <itunes:summary>Come si gestisce davvero un progetto di AI generativa insieme agli stakeholder di business, dal ciclo di vita alla misurazione del successo.</itunes:summary>
+      <enclosure url="https://raffaele240695.github.io/podcast-feed/episodes/genai-business-skills-ep06.mp3" length="9749686" type="audio/mpeg"/>
+      <guid isPermaLink="false">genai-business-skills-ep06</guid>
+      <pubDate>Fri, 10 Jul 2026 09:06:00 +0000</pubDate>
+      <itunes:duration>00:11:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Perché esiste il RAG e come funziona a grandi linee</title>
       <description>Cosa succede quando un modello linguistico non sa la risposta, e come il RAG risolve il problema recuperando il contesto giusto prima di generare.</description>
       <itunes:summary>Cosa succede quando un modello linguistico non sa la risposta, e come il RAG risolve il problema recuperando il contesto giusto prima di generare.</itunes:summary>
