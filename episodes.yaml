@@ -113,3 +113,14 @@ episodi:
   file: genai-business-skills-ep06.mp3
   slug: genai-business-skills
   n: 6
+- guid: comunicazione-professionale-ep01
+  titolo: 'Le soft skills: cosa dire, cosa evitare, come interagire con più persone'
+  descrizione: Come comportarsi, cosa dire e cosa evitare quando si interagisce con
+    più persone di aree diverse in un contesto professionale, restando efficaci e
+    coerenti.
+  data: '2026-07-20'
+  durata: 699.294
+  dimensione: 9802080
+  file: comunicazione-professionale-ep01.mp3
+  slug: comunicazione-professionale
+  n: 1

@@ -15,6 +15,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Le soft skills: cosa dire, cosa evitare, come interagire con più persone</title>
+      <description>Come comportarsi, cosa dire e cosa evitare quando si interagisce con più persone di aree diverse in un contesto professionale, restando efficaci e coerenti.</description>
+      <itunes:summary>Come comportarsi, cosa dire e cosa evitare quando si interagisce con più persone di aree diverse in un contesto professionale, restando efficaci e coerenti.</itunes:summary>
+      <enclosure url="https://raffaele240695.github.io/podcast-feed/episodes/comunicazione-professionale-ep01.mp3" length="9802080" type="audio/mpeg"/>
+      <guid isPermaLink="false">comunicazione-professionale-ep01</guid>
+      <pubDate>Mon, 20 Jul 2026 09:12:00 +0000</pubDate>
+      <itunes:duration>00:11:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Come funziona davvero un modello di AI generativa</title>
       <description>Cos'è un token, come un modello genera una risposta, perché a volte sbaglia, e dove sta il vantaggio reale nonostante gli errori.</description>
       <itunes:summary>Cos'è un token, come un modello genera una risposta, perché a volte sbaglia, e dove sta il vantaggio reale nonostante gli errori.</itunes:summary>
