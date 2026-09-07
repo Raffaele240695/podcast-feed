@@ -124,3 +124,76 @@ episodi:
   file: comunicazione-professionale-ep01.mp3
   slug: comunicazione-professionale
   n: 1
+- guid: project-management-it-ep01
+  titolo: Cos'è il project management, e cosa fa davvero un PM di progetti IT
+  descrizione: Cos'è un progetto, cosa fa concretamente chi lo gestisce, il triangolo
+    dei vincoli che ogni PM affronta, e le competenze richieste dal ruolo.
+  data: '2026-07-20'
+  durata: 737.844
+  dimensione: 10342394
+  file: project-management-it-ep01.mp3
+  slug: project-management-it
+  n: 1
+- guid: project-management-it-ep02
+  titolo: 'La metodologia Waterfall: fasi, quando usarla, quando no'
+  descrizione: Il principio del modello a cascata, le sue cinque fasi classiche, e
+    in quali condizioni resta ancora la scelta giusta per un progetto IT.
+  data: '2026-07-20'
+  durata: 638.22
+  dimensione: 8946148
+  file: project-management-it-ep02.mp3
+  slug: project-management-it
+  n: 2
+- guid: project-management-it-ep03
+  titolo: 'Waterfall in pratica: le fasi una per una, e cosa si consegna in ciascuna'
+  descrizione: Cosa produce concretamente ogni fase di un progetto Waterfall, quali
+    documenti si scrivono, e chi li approva lungo il percorso.
+  data: '2026-07-20'
+  durata: 676.37
+  dimensione: 9480998
+  file: project-management-it-ep03.mp3
+  slug: project-management-it
+  n: 3
+- guid: project-management-it-ep04
+  titolo: La metodologia Agile e il framework Scrum
+  descrizione: 'Perché nasce l''Agile come reazione ai limiti di Waterfall, i quattro
+    valori del Manifesto, e come funziona concretamente il framework Scrum: ruoli,
+    eventi, backlog.'
+  data: '2026-07-20'
+  durata: 626.77
+  dimensione: 8785818
+  file: project-management-it-ep04.mp3
+  slug: project-management-it
+  n: 4
+- guid: project-management-it-ep05
+  titolo: Kanban, e come scegliere tra Waterfall, Agile e approcci ibridi
+  descrizione: Come funziona Kanban, quando preferirlo a Scrum, perché nel 2026 la
+    maggioranza delle aziende usa approcci ibridi, e come scegliere la metodologia
+    giusta per un progetto specifico.
+  data: '2026-07-20'
+  durata: 646.47
+  dimensione: 9061881
+  file: project-management-it-ep05.mp3
+  slug: project-management-it
+  n: 5
+- guid: project-management-it-ep06
+  titolo: 'Gli strumenti del mestiere: pianificazione, rischio, budget, stakeholder'
+  descrizione: 'Gli strumenti pratici di ogni project manager: WBS e Gantt, backlog
+    e velocity, registro dei rischi, controllo budget, e matrice RACI per gli stakeholder.'
+  data: '2026-07-20'
+  durata: 672.37
+  dimensione: 9425014
+  file: project-management-it-ep06.mp3
+  slug: project-management-it
+  n: 6
+- guid: project-management-it-ep07
+  titolo: 'Diventare un buon PM: competenze, certificazioni, misurare il successo'
+  descrizione: Le soft skill che contano davvero, come orientarsi tra PMP, PRINCE2
+    e certificazioni Scrum, come misurare il successo oltre tempo e budget, e gli
+    errori più comuni di chi inizia in questo ruolo.
+  data: '2026-07-20'
+  durata: 658.995
+  dimensione: 9237620
+  file: project-management-it-ep07.mp3
+  slug: project-management-it
+  n: 7

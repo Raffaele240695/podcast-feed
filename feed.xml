@@ -20,8 +20,78 @@
       <itunes:summary>Come comportarsi, cosa dire e cosa evitare quando si interagisce con più persone di aree diverse in un contesto professionale, restando efficaci e coerenti.</itunes:summary>
       <enclosure url="https://raffaele240695.github.io/podcast-feed/episodes/comunicazione-professionale-ep01.mp3" length="9802080" type="audio/mpeg"/>
       <guid isPermaLink="false">comunicazione-professionale-ep01</guid>
-      <pubDate>Mon, 20 Jul 2026 09:12:00 +0000</pubDate>
+      <pubDate>Mon, 20 Jul 2026 09:19:00 +0000</pubDate>
       <itunes:duration>00:11:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Cos'è il project management, e cosa fa davvero un PM di progetti IT</title>
+      <description>Cos'è un progetto, cosa fa concretamente chi lo gestisce, il triangolo dei vincoli che ogni PM affronta, e le competenze richieste dal ruolo.</description>
+      <itunes:summary>Cos'è un progetto, cosa fa concretamente chi lo gestisce, il triangolo dei vincoli che ogni PM affronta, e le competenze richieste dal ruolo.</itunes:summary>
+      <enclosure url="https://raffaele240695.github.io/podcast-feed/episodes/project-management-it-ep01.mp3" length="10342394" type="audio/mpeg"/>
+      <guid isPermaLink="false">project-management-it-ep01</guid>
+      <pubDate>Mon, 20 Jul 2026 09:18:00 +0000</pubDate>
+      <itunes:duration>00:12:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>La metodologia Waterfall: fasi, quando usarla, quando no</title>
+      <description>Il principio del modello a cascata, le sue cinque fasi classiche, e in quali condizioni resta ancora la scelta giusta per un progetto IT.</description>
+      <itunes:summary>Il principio del modello a cascata, le sue cinque fasi classiche, e in quali condizioni resta ancora la scelta giusta per un progetto IT.</itunes:summary>
+      <enclosure url="https://raffaele240695.github.io/podcast-feed/episodes/project-management-it-ep02.mp3" length="8946148" type="audio/mpeg"/>
+      <guid isPermaLink="false">project-management-it-ep02</guid>
+      <pubDate>Mon, 20 Jul 2026 09:17:00 +0000</pubDate>
+      <itunes:duration>00:10:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Waterfall in pratica: le fasi una per una, e cosa si consegna in ciascuna</title>
+      <description>Cosa produce concretamente ogni fase di un progetto Waterfall, quali documenti si scrivono, e chi li approva lungo il percorso.</description>
+      <itunes:summary>Cosa produce concretamente ogni fase di un progetto Waterfall, quali documenti si scrivono, e chi li approva lungo il percorso.</itunes:summary>
+      <enclosure url="https://raffaele240695.github.io/podcast-feed/episodes/project-management-it-ep03.mp3" length="9480998" type="audio/mpeg"/>
+      <guid isPermaLink="false">project-management-it-ep03</guid>
+      <pubDate>Mon, 20 Jul 2026 09:16:00 +0000</pubDate>
+      <itunes:duration>00:11:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>La metodologia Agile e il framework Scrum</title>
+      <description>Perché nasce l'Agile come reazione ai limiti di Waterfall, i quattro valori del Manifesto, e come funziona concretamente il framework Scrum: ruoli, eventi, backlog.</description>
+      <itunes:summary>Perché nasce l'Agile come reazione ai limiti di Waterfall, i quattro valori del Manifesto, e come funziona concretamente il framework Scrum: ruoli, eventi, backlog.</itunes:summary>
+      <enclosure url="https://raffaele240695.github.io/podcast-feed/episodes/project-management-it-ep04.mp3" length="8785818" type="audio/mpeg"/>
+      <guid isPermaLink="false">project-management-it-ep04</guid>
+      <pubDate>Mon, 20 Jul 2026 09:15:00 +0000</pubDate>
+      <itunes:duration>00:10:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Kanban, e come scegliere tra Waterfall, Agile e approcci ibridi</title>
+      <description>Come funziona Kanban, quando preferirlo a Scrum, perché nel 2026 la maggioranza delle aziende usa approcci ibridi, e come scegliere la metodologia giusta per un progetto specifico.</description>
+      <itunes:summary>Come funziona Kanban, quando preferirlo a Scrum, perché nel 2026 la maggioranza delle aziende usa approcci ibridi, e come scegliere la metodologia giusta per un progetto specifico.</itunes:summary>
+      <enclosure url="https://raffaele240695.github.io/podcast-feed/episodes/project-management-it-ep05.mp3" length="9061881" type="audio/mpeg"/>
+      <guid isPermaLink="false">project-management-it-ep05</guid>
+      <pubDate>Mon, 20 Jul 2026 09:14:00 +0000</pubDate>
+      <itunes:duration>00:10:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Gli strumenti del mestiere: pianificazione, rischio, budget, stakeholder</title>
+      <description>Gli strumenti pratici di ogni project manager: WBS e Gantt, backlog e velocity, registro dei rischi, controllo budget, e matrice RACI per gli stakeholder.</description>
+      <itunes:summary>Gli strumenti pratici di ogni project manager: WBS e Gantt, backlog e velocity, registro dei rischi, controllo budget, e matrice RACI per gli stakeholder.</itunes:summary>
+      <enclosure url="https://raffaele240695.github.io/podcast-feed/episodes/project-management-it-ep06.mp3" length="9425014" type="audio/mpeg"/>
+      <guid isPermaLink="false">project-management-it-ep06</guid>
+      <pubDate>Mon, 20 Jul 2026 09:13:00 +0000</pubDate>
+      <itunes:duration>00:11:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Diventare un buon PM: competenze, certificazioni, misurare il successo</title>
+      <description>Le soft skill che contano davvero, come orientarsi tra PMP, PRINCE2 e certificazioni Scrum, come misurare il successo oltre tempo e budget, e gli errori più comuni di chi inizia in questo ruolo.</description>
+      <itunes:summary>Le soft skill che contano davvero, come orientarsi tra PMP, PRINCE2 e certificazioni Scrum, come misurare il successo oltre tempo e budget, e gli errori più comuni di chi inizia in questo ruolo.</itunes:summary>
+      <enclosure url="https://raffaele240695.github.io/podcast-feed/episodes/project-management-it-ep07.mp3" length="9237620" type="audio/mpeg"/>
+      <guid isPermaLink="false">project-management-it-ep07</guid>
+      <pubDate>Mon, 20 Jul 2026 09:12:00 +0000</pubDate>
+      <itunes:duration>00:10:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
