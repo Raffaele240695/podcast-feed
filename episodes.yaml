@@ -218,3 +218,13 @@ episodi:
   file: pm-settore-pubblico-ep02.mp3
   slug: pm-settore-pubblico
   n: 2
+- guid: pm-settore-pubblico-ep03
+  titolo: Salesforce spiegato a un PM
+  descrizione: Il vocabolario e le logiche per seguire una riunione su Salesforce
+    e valutare una proposta di un fornitore, senza saperlo configurare.
+  data: '2026-09-27'
+  durata: 844.243
+  dimensione: 11833389
+  file: pm-settore-pubblico-ep03.mp3
+  slug: pm-settore-pubblico
+  n: 3

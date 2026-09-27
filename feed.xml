@@ -20,7 +20,7 @@
       <itunes:summary>Come nasce, si compra, si realizza e si rilascia un progetto IT in una società pubblica, dal punto di vista del project manager lato cliente che non sviluppa.</itunes:summary>
       <enclosure url="https://raffaele240695.github.io/podcast-feed/episodes/pm-settore-pubblico-ep01.mp3" length="16532789" type="audio/mpeg"/>
       <guid isPermaLink="false">pm-settore-pubblico-ep01</guid>
-      <pubDate>Sun, 27 Sep 2026 09:21:00 +0000</pubDate>
+      <pubDate>Sun, 27 Sep 2026 09:22:00 +0000</pubDate>
       <itunes:duration>00:19:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -30,8 +30,18 @@
       <itunes:summary>La logica delle regole di acquisto pubblico per chi gestisce progetti IT: principi guida, soglie, criteri di aggiudicazione, gestione del contratto.</itunes:summary>
       <enclosure url="https://raffaele240695.github.io/podcast-feed/episodes/pm-settore-pubblico-ep02.mp3" length="12312252" type="audio/mpeg"/>
       <guid isPermaLink="false">pm-settore-pubblico-ep02</guid>
-      <pubDate>Sun, 27 Sep 2026 09:20:00 +0000</pubDate>
+      <pubDate>Sun, 27 Sep 2026 09:21:00 +0000</pubDate>
       <itunes:duration>00:14:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Salesforce spiegato a un PM</title>
+      <description>Il vocabolario e le logiche per seguire una riunione su Salesforce e valutare una proposta di un fornitore, senza saperlo configurare.</description>
+      <itunes:summary>Il vocabolario e le logiche per seguire una riunione su Salesforce e valutare una proposta di un fornitore, senza saperlo configurare.</itunes:summary>
+      <enclosure url="https://raffaele240695.github.io/podcast-feed/episodes/pm-settore-pubblico-ep03.mp3" length="11833389" type="audio/mpeg"/>
+      <guid isPermaLink="false">pm-settore-pubblico-ep03</guid>
+      <pubDate>Sun, 27 Sep 2026 09:20:00 +0000</pubDate>
+      <itunes:duration>00:14:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
