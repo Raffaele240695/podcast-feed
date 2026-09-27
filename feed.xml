@@ -15,6 +15,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Il ciclo di un progetto IT a gara</title>
+      <description>Come nasce, si compra, si realizza e si rilascia un progetto IT in una società pubblica, dal punto di vista del project manager lato cliente che non sviluppa.</description>
+      <itunes:summary>Come nasce, si compra, si realizza e si rilascia un progetto IT in una società pubblica, dal punto di vista del project manager lato cliente che non sviluppa.</itunes:summary>
+      <enclosure url="https://raffaele240695.github.io/podcast-feed/episodes/pm-settore-pubblico-ep01.mp3" length="16532789" type="audio/mpeg"/>
+      <guid isPermaLink="false">pm-settore-pubblico-ep01</guid>
+      <pubDate>Sun, 27 Sep 2026 09:20:00 +0000</pubDate>
+      <itunes:duration>00:19:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Le soft skills: cosa dire, cosa evitare, come interagire con più persone</title>
       <description>Come comportarsi, cosa dire e cosa evitare quando si interagisce con più persone di aree diverse in un contesto professionale, restando efficaci e coerenti.</description>
       <itunes:summary>Come comportarsi, cosa dire e cosa evitare quando si interagisce con più persone di aree diverse in un contesto professionale, restando efficaci e coerenti.</itunes:summary>

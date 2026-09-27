@@ -197,3 +197,14 @@ episodi:
   file: project-management-it-ep07.mp3
   slug: project-management-it
   n: 7
+- guid: pm-settore-pubblico-ep01
+  titolo: Il ciclo di un progetto IT a gara
+  descrizione: Come nasce, si compra, si realizza e si rilascia un progetto IT in
+    una società pubblica, dal punto di vista del project manager lato cliente che
+    non sviluppa.
+  data: '2026-09-27'
+  durata: 1179.566
+  dimensione: 16532789
+  file: pm-settore-pubblico-ep01.mp3
+  slug: pm-settore-pubblico
+  n: 1
