@@ -208,3 +208,13 @@ episodi:
   file: pm-settore-pubblico-ep01.mp3
   slug: pm-settore-pubblico
   n: 1
+- guid: pm-settore-pubblico-ep02
+  titolo: Il Codice Appalti per chi gestisce progetti
+  descrizione: 'La logica delle regole di acquisto pubblico per chi gestisce progetti
+    IT: principi guida, soglie, criteri di aggiudicazione, gestione del contratto.'
+  data: '2026-09-27'
+  durata: 878.418
+  dimensione: 12312252
+  file: pm-settore-pubblico-ep02.mp3
+  slug: pm-settore-pubblico
+  n: 2
