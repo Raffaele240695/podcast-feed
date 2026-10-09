@@ -228,3 +228,14 @@ episodi:
   file: pm-settore-pubblico-ep03.mp3
   slug: pm-settore-pubblico
   n: 3
+- guid: pm-settore-pubblico-ep04
+  titolo: AI in un ente finanziario regolato
+  descrizione: 'Cosa cambia per chi gestisce un progetto di intelligenza artificiale
+    in un ente finanziario: livelli di rischio, merito creditizio, norme collegate,
+    e traduzione operativa.'
+  data: '2026-10-09'
+  durata: 1054.818
+  dimensione: 14784405
+  file: pm-settore-pubblico-ep04.mp3
+  slug: pm-settore-pubblico
+  n: 4
