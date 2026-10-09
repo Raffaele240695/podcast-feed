@@ -239,3 +239,13 @@ episodi:
   file: pm-settore-pubblico-ep04.mp3
   slug: pm-settore-pubblico
   n: 4
+- guid: pm-settore-pubblico-ep05
+  titolo: I primi 90 giorni da senior in una nuova azienda
+  descrizione: Come inserirsi rapidamente in un nuovo ruolo senior, costruire credibilità,
+    ed evitare gli errori più comuni di chi arriva da poco.
+  data: '2026-10-10'
+  durata: 825.044
+  dimensione: 11564340
+  file: pm-settore-pubblico-ep05.mp3
+  slug: pm-settore-pubblico
+  n: 5

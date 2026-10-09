@@ -15,6 +15,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>I primi 90 giorni da senior in una nuova azienda</title>
+      <description>Come inserirsi rapidamente in un nuovo ruolo senior, costruire credibilità, ed evitare gli errori più comuni di chi arriva da poco.</description>
+      <itunes:summary>Come inserirsi rapidamente in un nuovo ruolo senior, costruire credibilità, ed evitare gli errori più comuni di chi arriva da poco.</itunes:summary>
+      <enclosure url="https://raffaele240695.github.io/podcast-feed/episodes/pm-settore-pubblico-ep05.mp3" length="11564340" type="audio/mpeg"/>
+      <guid isPermaLink="false">pm-settore-pubblico-ep05</guid>
+      <pubDate>Sat, 10 Oct 2026 09:24:00 +0000</pubDate>
+      <itunes:duration>00:13:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI in un ente finanziario regolato</title>
       <description>Cosa cambia per chi gestisce un progetto di intelligenza artificiale in un ente finanziario: livelli di rischio, merito creditizio, norme collegate, e traduzione operativa.</description>
       <itunes:summary>Cosa cambia per chi gestisce un progetto di intelligenza artificiale in un ente finanziario: livelli di rischio, merito creditizio, norme collegate, e traduzione operativa.</itunes:summary>
