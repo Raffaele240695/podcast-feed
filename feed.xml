@@ -15,6 +15,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Power Apps spiegato a chi deve valutarlo</title>
+      <description>Cos'è Power Apps, come si colloca nell'ecosistema Microsoft, e come valutare se può automatizzare un processo manuale.</description>
+      <itunes:summary>Cos'è Power Apps, come si colloca nell'ecosistema Microsoft, e come valutare se può automatizzare un processo manuale.</itunes:summary>
+      <enclosure url="https://raffaele240695.github.io/podcast-feed/episodes/power-platform-automazione-ep01.mp3" length="9514271" type="audio/mpeg"/>
+      <guid isPermaLink="false">power-platform-automazione-ep01</guid>
+      <pubDate>Mon, 12 Oct 2026 09:25:00 +0000</pubDate>
+      <itunes:duration>00:11:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>I primi 90 giorni da senior in una nuova azienda</title>
       <description>Come inserirsi rapidamente in un nuovo ruolo senior, costruire credibilità, ed evitare gli errori più comuni di chi arriva da poco.</description>
       <itunes:summary>Come inserirsi rapidamente in un nuovo ruolo senior, costruire credibilità, ed evitare gli errori più comuni di chi arriva da poco.</itunes:summary>

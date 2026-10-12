@@ -249,3 +249,13 @@ episodi:
   file: pm-settore-pubblico-ep05.mp3
   slug: pm-settore-pubblico
   n: 5
+- guid: power-platform-automazione-ep01
+  titolo: Power Apps spiegato a chi deve valutarlo
+  descrizione: Cos'è Power Apps, come si colloca nell'ecosistema Microsoft, e come
+    valutare se può automatizzare un processo manuale.
+  data: '2026-10-12'
+  durata: 678.745
+  dimensione: 9514271
+  file: power-platform-automazione-ep01.mp3
+  slug: power-platform-automazione
+  n: 1
