@@ -259,3 +259,13 @@ episodi:
   file: power-platform-automazione-ep01.mp3
   slug: power-platform-automazione
   n: 1
+- guid: power-platform-automazione-ep02
+  titolo: 'Flowvenue e l''automazione dei processi: dove si risparmia davvero'
+  descrizione: Cos'è davvero Flowvenue, come funziona un workflow, il ruolo degli
+    agenti AI, e dove si trova un risparmio di costi reale.
+  data: '2026-10-12'
+  durata: 889.218
+  dimensione: 12463806
+  file: power-platform-automazione-ep02.mp3
+  slug: power-platform-automazione
+  n: 2
